@@ -1,15 +1,15 @@
-body{
+body {
     font-family: sans-serif;
 }
 
-.calculator{
+.calculator {
     width: max-content;
     height: max-content;
     padding: 10px;
     border: 5px solid skyblue;
 }
 
-#field{
+#field {
     width: 330px;
     height: 40px;
     margin: 10px;
@@ -20,12 +20,12 @@ body{
     background-color: white;
 }
 
-table{
+table {
     width: 100%;
     text-align: center;
 }
 
-input{
+input {
     width: 60px;
     height: 60px;
     font-size: 30px;
